@@ -3,7 +3,7 @@ title: Welcome to my blog
 ---
 # Welcome to My Blog
 
-Hi! I'm [Your Name], a passionate developer and blogger. Here, you'll find posts about web development, programming, and technology. Stay tuned for tutorials, project updates, and coding tips.
+Hi! I'm Najam ALi Abbas, a passionate developer and blogger. Here, you'll find posts about web development, programming, and technology. Stay tuned for tutorials, project updates, and coding tips.
 
 ## Recent Projects
 - **Project 1**: A sales management system built with PHP and MVC architecture.
